@@ -1,1 +1,1 @@
-# cyberhi-thumb
+# cyber-thumb
